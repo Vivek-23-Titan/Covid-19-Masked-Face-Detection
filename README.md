@@ -15,17 +15,8 @@ The code is available in Juypter notebook.
 ### Face Detection comparison between MTCNN and YoloFace on Masked Faces.
 ![](Images/Face_Detection_Comparison.jpeg)
 
-The comparison between the original dataset and the combined dataset is shown with the help of confusion matrix.
-
-### Original Dataset Confusion Matrix (~90%)
-
-![](images/Original_Confusion_Matrix.PNG)
-
-### Combined Dataset Confusion Matrix (94.1%)
-
-![](images/Combined_Confusion_Matrix.PNG)
-
-The maximum accuracy attained by the combined training dataset was 94.1% which is an improvement of 4% over the original dataset.
+#### The Overall Acccuracy for MTCNN was 99.241%.
+#### The Overall Accuracy for YoloFace System (With several modifications) was approximately 99%.
 
 ### Requirements
 
