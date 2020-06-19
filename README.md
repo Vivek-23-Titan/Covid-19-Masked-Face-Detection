@@ -12,7 +12,7 @@ This is a person Re-Identification project which was carried out by first Face D
 The code is available in Juypter notebook.
 
 ## Results
-The comparision results of MTCNN vs YoloFace on Masked Faces.
+Face Detection comparison between MTCNN and YoloFace on Masked Faces.
 ![](images/Val_Acc_Comparision.PNG)
 
 The comparison between the original dataset and the combined dataset is shown with the help of confusion matrix.
