@@ -15,6 +15,7 @@ The code is available in Juypter notebook.
 ### Face Detection comparison between MTCNN and YoloFace on Masked Faces.
 ![](Images/Face_Detection_Comparison.jpeg)
 
+### Face Recognition Accuracy
 #### The Overall Acccuracy for MTCNN was 99.241%.
 #### The Overall Accuracy for YoloFace System (With several modifications) was approximately 99%.
 
