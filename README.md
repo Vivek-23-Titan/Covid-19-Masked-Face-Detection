@@ -13,7 +13,7 @@ The code is available in Juypter notebook.
 
 ## Results
 Face Detection comparison between MTCNN and YoloFace on Masked Faces.
-![](images/Val_Acc_Comparision.PNG)
+![](Images/Face_Detection_Comparison.jpeg)
 
 The comparison between the original dataset and the combined dataset is shown with the help of confusion matrix.
 
