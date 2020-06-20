@@ -22,8 +22,8 @@ The code is available in Juypter notebook.
 
 
 ### Face Recognition Accuracy
-#### The Overall Acccuracy for MTCNN was 99.241%.
-#### The Overall Accuracy for YoloFace System (With several modifications) was approximately 94%.
+#### The Overall Acccuracy for MTCNN on unmasked faces was 99.241%.
+#### The Overall Accuracy for YoloFace System (With several modifications) on masked faces was approximately 94%.
 
 ### Requirements
 
