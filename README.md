@@ -12,8 +12,14 @@ This is a person Re-Identification project which was carried out by first Face D
 The code is available in Juypter notebook.
 
 ## Results
+
 ### Face Detection comparison between MTCNN and YoloFace on Masked Faces.
 ![](Images/Face_Detection_Comparison.jpeg)
+
+### YoloFace Bounding Box
+
+![](Images/Mask_Image.jpg)
+
 
 ### Face Recognition Accuracy
 #### The Overall Acccuracy for MTCNN was 99.241%.
