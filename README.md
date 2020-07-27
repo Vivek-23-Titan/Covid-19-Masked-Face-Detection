@@ -1,7 +1,8 @@
 # Covid-19-Masked-Face-Detection-using-YoloFace
+
 <a href="https://colab.research.google.com/github/Vivek-23-Titan/Covid-19-Masked-Face-Detection-using-YoloFace/blob/master/Covid_19_Mask_Face_Detection_Yolo_Face.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 Covid-19 Masked Face Person Re-Identification using YoloFace and VggFace
-https://github.com/Vivek-23-Titan/Covid-19-Masked-Face-Detection-using-YoloFace/blob/master/Covid_19_Mask_Face_Detection_Yolo_Face.ipynb
+
 This is a person Re-Identification project which was carried out by first Face Detection by MTCNN model and then Face Recognition by the VGGFace model. However, with the current pandemic senario, this project moved its focus to Masked Face (Occlusion) Detection. But in doing so, the MTCNN model did not fetch expected results hence, YoloFace model was introduced.(paper - https://link.springer.com/article/10.1007/s00371-020-01831-7)
 
 ## Process
