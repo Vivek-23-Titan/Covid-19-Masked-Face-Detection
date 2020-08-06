@@ -23,7 +23,7 @@ This is a person Re-Identification project which was carried out by first Face D
 
 ### VGGFace Face Verification
 
-<img src="https://raw.githubusercontent.com/Vivek-23-Titan/Covid-19-Masked-Face-Detection-using-YoloFace/master/Images/Person_Verification.png" width=1000>
+<img src="https://raw.githubusercontent.com/Vivek-23-Titan/Covid-19-Masked-Face-Detection-using-YoloFace/master/Images/Person_Verification.png" width=400>
 
 The Overall Acccuracy for MTCNN detected frames on unmasked faces was 99.241%.
 The Overall Accuracy for YoloFace System (With several modifications) detected frames on masked faces was approximately 94%.
