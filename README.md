@@ -13,7 +13,7 @@ This is a person Re-Identification project which was carried out by first Face D
 <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Covid-19-Masked-Face-Detection-using-YoloFace/master/Images/Flowchart_New.PNG" width=400>
 
 ## Code
-The code is available in Juypter notebook.
+The code is available in [Juypter notebook](https://colab.research.google.com/github/Vivek-23-Titan/Covid-19-Masked-Face-Detection-using-YoloFace/blob/master/Covid_19_Mask_Face_Detection_Yolo_Face.ipynb).
 
 ## Results
 
