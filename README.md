@@ -22,7 +22,7 @@ The code is available in Juypter notebook.
 
 ### YoloFace Bounding Box
 
-<img src="https://raw.githubusercontent.com/Vivek-23-Titan/Covid-19-Masked-Face-Detection-using-YoloFace/master/Images/Mask_Image.jpg" width=400>
+<img src="https://raw.githubusercontent.com/Vivek-23-Titan/Covid-19-Masked-Face-Detection-using-YoloFace/master/Images/Mask_Image.jpg" width=300>
 
 ### VGGFace Face Recognition Accuracy
 
