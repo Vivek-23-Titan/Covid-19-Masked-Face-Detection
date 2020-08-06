@@ -3,7 +3,7 @@
 
 Covid-19 Masked Face Person Re-Identification using YoloFace and VggFace
 
-This is a person Re-Identification project which was carried out by first Face Detection by MTCNN model and then Face Recognition by the VGGFace model. However, with the current pandemic senario, this project moved its focus to Masked Face (Occlusion) Detection. But in doing so, the MTCNN model did not fetch expected results hence, YoloFace model was introduced.(paper - https://link.springer.com/article/10.1007/s00371-020-01831-7)
+This is a person Re-Identification project which was carried out by first Face Detection by MTCNN model and then Face Recognition by the VGGFace model. However, with the current pandemic senario, this project moved its focus to Masked Face (Occlusion) Detection. But in doing so, the MTCNN model did not fetch expected results hence, YoloFace model was introduced.[paper](https://link.springer.com/article/10.1007/s00371-020-01831-7)
 
 ## Process
 1) The video is spit into frames then Faces are extracted using YoloFace.
