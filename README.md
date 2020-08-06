@@ -21,7 +21,7 @@ The data consists of videos of 7 individuals that are split at 1fps to produce m
 ![](Images/Face_Detection_Comparison.jpeg)
 
 ### Face Detection
-
+Bounding Box colors: YOLO-face - Yellow, YOLOv3 - Red, and RetinaFace - Blue
 <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Covid-19-Masked-Face-Detection-using-YoloFace/master/Images/Detected_Faces.png" width=1000>
 
 ### VGGFace2 Person Verification
