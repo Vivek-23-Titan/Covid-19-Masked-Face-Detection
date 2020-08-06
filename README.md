@@ -10,6 +10,8 @@ This is a person Re-Identification project which was carried out by first Face D
 2) An image of the person to be identified is provided and compared with the faces in the database via VGGFace. If it belongs to the known individual's database, the name of the person is displayed.
 3) VGGFace is used to compare the person to be re-idetified with the video frames.
 
+![](Images/Flowchart_New.PNG)
+
 ## Code
 The code is available in Juypter notebook.
 
