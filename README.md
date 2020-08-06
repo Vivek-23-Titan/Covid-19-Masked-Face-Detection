@@ -19,7 +19,7 @@ This is a person Re-Identification project which was carried out by first Face D
 
 ### Face Detection Results
 
-<img src="https://raw.githubusercontent.com/Vivek-23-Titan/Covid-19-Masked-Face-Detection-using-YoloFace/master/Images/Detected_Faces.png" width=800>
+<img src="https://raw.githubusercontent.com/Vivek-23-Titan/Covid-19-Masked-Face-Detection-using-YoloFace/master/Images/Detected_Faces.png" width=1000>
 
 ### VGGFace Face Recognition Accuracy
 
