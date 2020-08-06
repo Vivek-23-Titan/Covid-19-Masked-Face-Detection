@@ -21,7 +21,7 @@ This is a person Re-Identification project which was carried out by first Face D
 
 <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Covid-19-Masked-Face-Detection-using-YoloFace/master/Images/Detected_Faces.png" width=1000>
 
-<img src="https://raw.githubusercontent.com/Vivek-23-Titan/Covid-19-Masked-Face-Detection-using-YoloFace/master/Images/Overall_Performance.png" width=1000>
+<img src="https://raw.githubusercontent.com/Vivek-23-Titan/Covid-19-Masked-Face-Detection-using-YoloFace/master/Images/Overall_Peformance.png" width=1000>
 
 ### VGGFace Face Verification
 
