@@ -17,9 +17,9 @@ This is a person Re-Identification project which was carried out by first Face D
 ### Face Detection comparison between MTCNN and YoloFace on Masked Faces.
 ![](Images/Face_Detection_Comparison.jpeg)
 
-### YoloFace Bounding Box
+### Face Detection Results
 
-<img src="https://raw.githubusercontent.com/Vivek-23-Titan/Covid-19-Masked-Face-Detection-using-YoloFace/master/Images/Mask_Image.jpg" width=200>
+<img src="https://raw.githubusercontent.com/Vivek-23-Titan/Covid-19-Masked-Face-Detection-using-YoloFace/master/Images/Detected_Faces.png" width=200>
 
 ### VGGFace Face Recognition Accuracy
 
