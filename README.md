@@ -31,7 +31,7 @@ This is a person Re-Identification project which was carried out by first Face D
 
 The overall accuracies for the different algorithms on the masked faces are:
 * Custom trained YOLOv3: 60.4%
-* YOLO-face + VGGFace2 72.5%
+* YOLO-face + VGGFace2: 72.5%
 * RetinaFace + VGGFace2: 92.7%
 
 ### Requirements
