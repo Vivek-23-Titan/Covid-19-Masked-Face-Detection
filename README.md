@@ -1,4 +1,4 @@
-# Covid-19-Masked-Face-Detection-using-YoloFace
+# Covid-19-Masked-Face-Detection
 <a href="https://colab.research.google.com/github/Vivek-23-Titan/Covid-19-Masked-Face-Detection-using-YoloFace/blob/master/Covid_19_Mask_Face_Detection_Yolo_Face.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 Covid-19 Masked Face Person Re-Identification
