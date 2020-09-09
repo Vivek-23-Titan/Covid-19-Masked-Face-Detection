@@ -1,7 +1,4 @@
 # Covid-19 Masked Face Detection and Verification
-<a href="https://colab.research.google.com/github/Vivek-23-Titan/Covid-19-Masked-Face-Detection-using-YoloFace/blob/master/Covid_19_Mask_Face_Detection_Yolo_Face.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-
-Covid-19 Masked Face Person Re-Identification
 
 This is a person Re-Identification project which was carried out by first Face Detection by MTCNN model and then Face Recognition by the VGGFace2 with ResNet-50 backbone model. However, with the current pandemic senario, this project moved its focus to Masked Face (Occlusion) Detection. But in doing so, the MTCNN model did not fetch expected results hence, different approaches like YOLO-face, YOLOv3 and RetinaFace algorithms were introduced.
 
@@ -14,6 +11,9 @@ The data consists of videos of 7 individuals that are split at 1fps to produce m
 3) VGGFace2 (ResNEt-50 architecture) was used to compare the person to be re-idetified with the video frames.
 
 <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Covid-19-Masked-Face-Detection-using-YoloFace/master/Images/Flowchart_New.PNG" width=400>
+
+## Code
+The code is available in the [Jupyter Notebook](https://colab.research.google.com/github/Vivek-23-Titan/Covid-19-Masked-Face-Detection-using-YoloFace/blob/master/Covid_19_Mask_Face_Detection_Yolo_Face.ipynb)
 
 ## Results
 
