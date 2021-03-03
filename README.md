@@ -41,3 +41,14 @@ The overall accuracies for the different algorithms on the masked faces are:
 
 TensorFlow version 2.2.0\
 Keras version 2.3.1
+
+### Citation
+
+```
+@INPROCEEDINGS{9356313,
+author={V. {Aswal} and O. {Tupe} and S. {Shaikh} and N. N. {Charniya}},
+booktitle={2020 19th IEEE International Conference on Machine Learning and Applications (ICMLA)},
+title={Single Camera Masked Face Identification},
+year={2020},  volume={},  number={},  pages={57-60},
+doi={10.1109/ICMLA51294.2020.00018}}
+```
