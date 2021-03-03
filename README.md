@@ -2,7 +2,7 @@
 
 This is a person Re-Identification project which was carried out by first Face Detection by MTCNN model and then Face Recognition by the VGGFace2 with ResNet-50 backbone model. However, with the current pandemic senario, this project moved its focus to Masked Face (Occlusion) Detection. But in doing so, the MTCNN model did not fetch expected results hence, different approaches like YOLO-face, YOLOv3 and RetinaFace algorithms were introduced.
 
-###### Detailed information is available in open access [IEEE Paper](https://ieeexplore.ieee.org/document/9356313).
+##### Detailed information is available in open access [IEEE Paper](https://ieeexplore.ieee.org/document/9356313).
 
 ## Dataset
 The data consists of videos of 7 individuals that are split at 1fps to produce more than 1000 frames. The videos are taken in different settings such as occlusion, appearance changes, lighting, cropping, rotation, etc.
